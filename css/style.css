@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Slab:wght@300&display=swap');
+.nav-item{
+
+      font-size: 18px;
+}
+.nav-item:hover{
+    color: #ffffff7d;
+    font-size: 18px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+.description{
+    font-size: 16px;
+}
+.edu_img{
+    width: 100%;
+    border-radius: 4px;
+}
+.img{
+    width: 50%;
+    border-radius: 100%;
+}
+nav{
+    box-shadow: 0 10px 24px 0 rgba(182, 166, 166, 0.2);
+}
+
+.headingname{
+    font-weight: bolder;
+}
+.label{
+    font-size: 20px;
+    font-weight: 700;
+}
+.icons{
+    display: inline-block;
+}
+footer .last{
+    background-color: #838ea07d;
+}
+.footer-container{
+    border-top: 2px solid #fff;
+}
+.anchor{
+    text-decoration: none;
+    color: #fff;
+}
+.anchor:hover{
+    color: rgb(19, 109, 194);
+}
+a img:hover{
+    transform:scale(1.1);
+}
+.description-about{
+    font-size: 20px;
+}
